@@ -1,0 +1,15 @@
+# Local Variables
+
+local_var_name="local_var_name"
+
+print("This is a local variables name syntax : "+local_var_name)
+print("Local variable names should be all lower case")
+
+
+
+#Global Variables
+_a_global_var="_a_global_var"
+
+print("This is a global variables name syntax : "+_a_global_var)
+print("Global variables should be all lowercase \n "
+      "Words in a global variable name should be separated by an underscore")
