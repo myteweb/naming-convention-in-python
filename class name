@@ -4,6 +4,9 @@ Class names should normally use the CapWords convention
 
 
 class MainClass:
+
     x="MainClass"
+    
     print("This is a class name syntax : "+x)
+    
     print("Class names should normally use the CapWords convention")
